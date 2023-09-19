@@ -1,0 +1,15 @@
+{
+  "name": "caesarbot",
+  "version": "1.0.0",
+  "description": "- Architecture \t- We need an initializing script \t\t- This script will ask the user for the politcal campaign idea \t\t- Generate the goals \t\t- Generate the initial strategy \t- Tweeting script \t\t- Find out what to tweet (on a set interval) \t\t- Generating tweets based on the saved strategy  \t\t- It will find a user to reply to  \t\t\t- We're going to be vectorizing each reply and comparing it to our political campaign \t- Engagement script \t\t- Analyzing our engagement stats \t\t\t- How our tweets are performing \t\t\t- Changing the strategy if the tweets don't perform well",
+  "main": "caesar-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "puppeteer": "^21.2.1"
+  }
+}
