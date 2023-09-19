@@ -22,11 +22,14 @@ First CaesarBot creates a goal and strategy for the social media marketing plan.
 3) The Colab
 CaesarBot currently using a flask api running from a [Google Colab](https://colab.research.google.com/drive/1Q3PI9Vt4IEiUQKXvLnRJyOOjZdWmrmSR?usp=sharing) to prompt Llama. If you want to change this to use llama.cpp please create an issue and I'll try to address it.
 
+![Screen Shot 2023-09-19 at 11 02 50 AM](https://github.com/jawerty/CaesarBot/assets/1999719/9e73446e-4799-45fc-9c45-c0727f1a4676)
+
 # How to use it
 1) Set up the Google Colab 
 Go to the [Google Colab](https://colab.research.google.com/drive/1Q3PI9Vt4IEiUQKXvLnRJyOOjZdWmrmSR?usp=sharing) and run the server and copy the ngrok url
 
-Example ngrok url below
+Your colab should look similar to the one below
+![Screen Shot 2023-09-06 at 10 15 14 PM](https://github.com/jawerty/CaesarBot/assets/1999719/d0e19fef-d201-46e9-a1d9-5359557cb1c3)
 
 2) Create a config.json
 - Add your bot account info
