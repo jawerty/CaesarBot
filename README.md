@@ -1,7 +1,5 @@
-![0_2](https://github.com/jawerty/CaesarBot/assets/1999719/641bebd0-c7f4-4c87-b275-191e8672b150)# CaesarBot
+# CaesarBot
 An LLM agent that pushes any sort of political campaign on *Twitter (X)* you wish while continuously managing the campaign with an engagement tracking feedback loop
-
-![0_2](https://github.com/jawerty/CaesarBot/assets/1999719/df7ec571-dcf1-4195-9bfb-46a628d341e0)
 
 *Note: This is a twitter (x) bot*
 
